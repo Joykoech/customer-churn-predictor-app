@@ -1,0 +1,2 @@
+gender,seniorcitizen,partner,dependents,phoneservice,multiplelines,internetservice,onlinesecurity,onlinebackup,tenure,deviceprotection,techsupport,streamingtv,streamingmovies,contract,paperlessbilling,paymentmethod,monthlycharges,totalcharges,Prediction_time,model_used,prediction,probability
+Male,1,Yes,No,No,Yes,DSL,No internet service,Yes,5,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),4,13,2024-06-24 02:35:47,RandomForest,No,0.6532666375406222
